@@ -3,8 +3,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=JakeLehle&show_icons=true&count_private=true" align="right"/>
 
-#### How to reach me:     [jake.lehle@utsa.edu](mailto:jake.lehle@utsa.edu)
-
 #### ✨ I’m currently working on and happy to collaborate on ✨:
 * Bioinformatics pipelines including: WGBS, RNA-seq, ATAC-seq, Chip-seq, and/or Hi-C
 * Gene regulatory networks and cell-type analysis from single-cell data sets
