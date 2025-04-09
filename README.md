@@ -2,7 +2,6 @@
 ## ⚡ Welcome to my page ⚡
 
 <img src="https://github-readme-stats.vercel.app/api?username=JakeLehle&show_icons=true&count_private=true" align="right"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JakeLehle&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" align="right"/>
 
 
 #### ✨ I’m currently working on and happy to collaborate on ✨:
