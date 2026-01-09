@@ -1,7 +1,7 @@
 # README.md
 ## ⚡ Welcome to my page ⚡
 
-<img src=[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) align="right"/>
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 
 #### ✨ I’m currently working on and happy to collaborate on ✨:
