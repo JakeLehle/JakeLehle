@@ -1,7 +1,7 @@
 # README.md
 ## ⚡ Welcome to my page ⚡
 
-<img src="https://github-readme-stats.vercel.app/api?username=JakeLehle&show_icons=true&count_private=true" align="right"/>
+<img src=[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) align="right"/>
 
 
 #### ✨ I’m currently working on and happy to collaborate on ✨:
