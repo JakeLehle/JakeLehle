@@ -1,13 +1,11 @@
 # README.md
 ## ⚡ Welcome to my page ⚡
 
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
-
-
 #### ✨ I’m currently working on and happy to collaborate on ✨:
 * Bioinformatics pipelines including: WGBS, RNA-seq, ATAC-seq, Chip-seq, and/or Hi-C
 * Gene regulatory networks and cell-type analysis from single-cell data sets
 
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 <!--
 **JakeLehle/JakeLehle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
