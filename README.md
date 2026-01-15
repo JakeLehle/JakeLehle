@@ -4,8 +4,8 @@
 #### ✨ I’m currently working on and happy to collaborate on ✨:
 * Bioinformatics pipelines including: WGBS, RNA-seq, ATAC-seq, Chip-seq, and/or Hi-C
 * Gene regulatory networks and cell-type analysis from single-cell data sets
-
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) </p>
 
 <!--
 **JakeLehle/JakeLehle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
