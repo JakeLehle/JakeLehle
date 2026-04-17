@@ -1,6 +1,20 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Dr. Jake Lehle</h1>
+<h1 align="left">
+  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" valign="middle" />, I'm Dr. Jake Lehle
+</h1>
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Medium-Light%20Skin%20Tone.png" alt="Scientist" width="50" height="50"> About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist" width="50" height="50"></h2>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Medium-Light%20Skin%20Tone.png" alt="Scientist" width="100" height="100" />
+    </td>
+    <td valign="middle">
+      <h2>About me</h2>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist" width="100" height="100" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   I develop bioinformatics pipelines to make science easier for all.<br>
