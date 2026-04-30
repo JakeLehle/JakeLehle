@@ -18,7 +18,7 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Medium-Light%20Skin%20Tone.png" alt="Scientist" width="100" height="100" />
     </td>
     <td valign="middle" style="border: none; padding: 0 15px;">
-      <b style="font-size: 34px;">About me</b>
+      <h2 align="center">About me</h2>
     </td>
     <td style="border: none; padding: 0;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist" width="100" height="100" />
