@@ -34,7 +34,21 @@
 <img width=500 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"><img width=500 src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"></p>
 <img width=500 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align=left><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="100" height="100" /> I’m happy to collaborate on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100" /> </h2>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100" />
+    </td>
+    <td valign="middle" style="border: none; padding: 0 15px;">
+      <h2 align=left> I’m happy to collaborate on </h2>
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="100" height="100" />
+    </td>
+  </tr>
+</table>
+
 <ul>
   <li>Bioinformatics pipelines including: scRNA-seq and virus detection</li>
   <li>Gene regulatory networks and machine learning</li>
