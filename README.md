@@ -15,13 +15,13 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist" width="150" height="150" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist" width="125" height="125" />
     </td>
     <td valign="middle" style="border: none; padding: 0 15px;">
       <h2 align="center">About me</h2>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Medium-Light%20Skin%20Tone.png" alt="Scientist" width="150" height="150" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Medium-Light%20Skin%20Tone.png" alt="Scientist" width="125" height="125" />
     </td>
   </tr>
 </table>
@@ -38,13 +38,13 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" height="100" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="125" height="125" />
     </td>
     <td valign="middle" style="border: none; padding: 0 15px;">
       <h2 align=left> Let's collaborate on </h2>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="100" height="100" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test Tube" width="125" height="125" />
     </td>
   </tr>
 </table>
